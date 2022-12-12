@@ -1,4 +1,4 @@
-# Student Management Stystem created using React&Java
+# Student Management System created using React&Java
 - Java
 - Spring Boot
 - Spring MVC
